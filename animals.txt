@@ -1,5 +1,9 @@
-M Muskrat
+M Mole
 N Newt
-O Onager
-P Panda
+<<<<<<< HEAD
+S Swan
+=======
+O Owl
+>>>>>>> alternative
+P Pink
 T Tapir
