@@ -1,9 +1,6 @@
 M Mole
 N Newt
-<<<<<<< HEAD
 S Swan
-=======
 O Owl
->>>>>>> alternative
 P Pink
 T Tapir
